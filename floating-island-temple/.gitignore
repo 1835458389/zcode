@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.blend1
+*.blend2
+
+# 过程文件：预览、诊断、测试
+out/preview_*.png
+out/timing_*.png
+out/diag_*.png
+out/_*.png
+out/_*.mp4
+out/chk_*.png
+out/crop*.png
+out/shot_*.png
+out/showcase_loop.mp4
+out/reelframes/
+
+# 临时
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
